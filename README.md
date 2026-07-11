@@ -1,5 +1,10 @@
 # WorkForce AI – Enterprise Workforce Management Platform
 
+>  **Live Demo:** https://work-force-ai-liart.vercel.app/
+
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Visit_Website-blue?style=for-the-badge)](https://work-force-ai-liart.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](https://github.com/Harsh123-k/WorkForce-AI)
+
 A complete, enterprise-grade Workforce Management System built using React, TypeScript, Node.js, Express.js, and MongoDB.
 
 The platform is designed to streamline organizational operations by managing employees, attendance, payroll, recruitment, projects, performance, leave management, and company assets through a centralized dashboard.
