@@ -333,3 +333,15 @@ Current Version: **1.0**
 ✅ Organization Dashboard
 
 ---
+
+## Contributing
+
+We welcome community contributions.
+
+### Steps
+
+- Fork the repository
+- Clone the repository
+- Create a new branch
+- Make your changes
+- Submit a Pull Request
