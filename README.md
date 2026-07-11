@@ -333,8 +333,7 @@ Current Version: **1.0**
 ✅ Organization Dashboard
 
 ---
-
-## Contributing
+# Contributing
 
 We welcome community contributions.
 
@@ -345,3 +344,6 @@ We welcome community contributions.
 - Create a new branch
 - Make your changes
 - Submit a Pull Request
+## Contributor
+
+Documentation updated by Akshit Saigal.
