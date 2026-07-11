@@ -290,12 +290,13 @@ Each role has different permissions managed through Role-Based Access Control (R
 ---
 
 # Team Members
+## 👥 Development Team
 
-| Name | Role |
-|------|------|
-| **Harsh Kamboj** | Full Stack Developer |
-| **Teammate 1** | Frontend Developer |
-| **Teammate 2** | Backend Developer |
+| Name | Role | GitHub |
+|------|------|--------|
+| **Harsh Kamboj** | Full Stack Developer | [@Harsh123-k](https://github.com/Harsh123-k) |
+| **Kavyansh** | Frontend Developer | [@Kavyansh1056](https://github.com/Kavyansh1056) |
+| **Akshit Saigal** | Backend Developer | [@aksaigal16](https://github.com/aksaigal16) |
 
 ---
 
@@ -332,5 +333,3 @@ Current Version: **1.0**
 ✅ Organization Dashboard
 
 ---
-
-⭐ If you found this project useful, consider giving it a Star.
